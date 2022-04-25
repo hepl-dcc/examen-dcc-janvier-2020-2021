@@ -4,6 +4,8 @@
 
 Dans le cadre de cet examen, nous vous demandons de reproduire une version simplifiée du jeu Tic-Tac-Toe aussi connu sous le nom OXO. Le but est de remplir une ligne, colonne ou diagonale d’un même symbole dans une matrice de taille fixe, ici 9. Le jeu sera joué par une seule personne qui placera alternativement des JS et des ♥️.
 
+Vous pouvez consulter une version finale du projet [ici](https://hepl-dcc.github.io/examen-dcc-janvier-2020-2021/).
+
 ## Consignes pour l'examen
 
 1. Renommez le dossier qui se trouve sur le bureau de votre machine qui porte le nom `examen-dcc-janvier-2020-2021` en `examen-dcc-janvier-2020-2021-nom-prenom-group`.
